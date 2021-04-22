@@ -6,3 +6,4 @@ while(1):
     num_intx = int(num_0x, 16)
     num_intb = int(num_0b, 2)
     print(num_intx, num_intb)
+    
